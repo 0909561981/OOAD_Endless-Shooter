@@ -60,7 +60,7 @@ Project Root/                      # 專案根目錄，所有檔案與資料夾�
 ---
 
 ## 執行方式
- 瀏覽器搜尋 https://0909561981.github.io/
+ 瀏覽器搜尋 https://0909561981.github.io/OOAD_Endless-Shooter/
  建議使用 Chrome、Firefox、Edge 等現代瀏覽器，以獲得最佳效果。
  
 ---
